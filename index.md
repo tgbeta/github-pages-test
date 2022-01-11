@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Hello World!
 
-You can use the [editor on GitHub](https://github.com/tgbeta/github-pages-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my first time using Github pages. I'm a student in Web and Mobile Development course in Vancouver. 
+Learning about Github and some features.
 
 ### Markdown
 
