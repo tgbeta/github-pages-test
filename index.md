@@ -3,12 +3,14 @@
 This is my first time using Github pages. I'm a student in Web and Mobile Development course in Vancouver. 
 Learning about Github and some features.
 
-### Markdown
+### History of Web
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The World Wide Web ("WWW" or "The Web") is a global information medium which users can access via computers connected to the Internet. The term is often mistakenly used as a synonym for the Internet itself, but the Web is a service that operates over the Internet, just as email and Usenet also do. The history of the Internet dates back significantly further than that of the World Wide Web. 
 
-```markdown
-Syntax highlighted code block
+### Precursors
+The hypertext portion of the Web in particular has an intricate intellectual history; notable influences and precursors include Vannevar Bush's Memex,[3] IBM's Generalized Markup Language,[4] and Ted Nelson's Project Xanadu.[3] Paul Otlet's Mundaneum project has also been named as an early 20th-century precursor of the Web.[5]
+
+The concept of a global information system connecting homes is prefigured in "A Logic Named Joe", a 1946 short story by Murray Leinster, in which computer terminals, called "logics", are present in every home. Although the computer system in the story is centralized, the story anticipates a ubiquitous information environment similar to the Web. The cultural impact of the Web was imagined even further back in a short story by E. M. Forster, "The Machine Stops", first published in 1909. 
 
 # Header 1
 ## Header 2
